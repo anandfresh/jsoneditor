@@ -1,3 +1,3 @@
-# jsoneditor
+# JSON Editor
 
 React JSON Editor 
