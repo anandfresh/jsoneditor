@@ -190,4 +190,3 @@ To minify the generated bundle, use [uglifyjs](https://github.com/mishoo/UglifyJ
 
 `jsoneditor` is released as open source under the permissive the [Apache 2.0 license](LICENSE.md).
 
-**If you are using jsoneditor commercially, there is a _social_ (but no legal) expectation that you help fund its maintenance. [Start here](https://github.com/sponsors/josdejong).**
