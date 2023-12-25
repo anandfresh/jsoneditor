@@ -21,7 +21,6 @@ Cross browser testing for JSONEditor is generously provided by <a href="https://
 ## Successor: svelte-jsoneditor
 
 This library [`jsoneditor`](https://github.com/josdejong/jsoneditor) has a successor: [`svelte-jsoneditor`](https://github.com/josdejong/svelte-jsoneditor). The new editor is not a one-to-one replacement, so there may be reasons to stick with `jsoneditor`. 
-The main differences between the two [are described here](https://github.com/josdejong/svelte-jsoneditor#differences-between-josdejongsvelte-jsoneditor-and-josdejongjsoneditor).
 
 ## Features
 
